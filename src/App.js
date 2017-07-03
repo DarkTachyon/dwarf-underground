@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 import logo from './logo.svg';
 import './App.css';
+import './Header.js'
 
 class App extends Component {
   render() {
@@ -61,7 +62,7 @@ class App extends Component {
         </div>
         <aside className="large-4 medium-12 columns">
           <div className="ad">
-            <h3>The Last Hammer Youll Ever Need</h3>
+            <h3>The Last Hammer You'll Ever Need</h3>
             <div className="ad-image">
               <img src="https://s-media-cache-ak0.pinimg.com/originals/b4/d5/ab/b4d5ab4a82b8f7efc1adaf548df1d089.jpg" alt="hammer" />
               <a href="#">visit sponsor</a>
@@ -84,7 +85,7 @@ class App extends Component {
           <div className="small-6 medium-3 columns other-article">
             <a href="#">
               <img src="https://images.fineartamerica.com/images-medium-large-5/rocky-mountain-landscape-meadow-in-spring-western-panorama-with-wildflowers-square-format-walt-curlee.jpg" alt="mountain" />
-              <p>You wont believe whats under this mountain</p>
+              <p>You won't believe what's under this mountain</p>
             </a>
           </div>
           <div className="small-6 medium-3 columns other-article">
